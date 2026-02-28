@@ -43,4 +43,4 @@ Open [http://localhost:8080](http://localhost:8080).
 ## Repository & live demo
 
 - **GitHub:** https://github.com/Ndibechinonso/snaarp
-- **Live demo:** 
+- **Live demo:** https://snaarp-ndibe.netlify.app/
